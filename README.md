@@ -1,7 +1,6 @@
 # Seasonal Agriculture Performance Analysis
 
-## Project
-VOIS for Tech Program on DATA ANALYTICS
+## Project VOIS for Tech Program on DATA ANALYTICS
 
 ## Contents
 - `Seasonal_Agriculture_Performance_Analysis.ipynb` — complete Python/Jupyter analysis
